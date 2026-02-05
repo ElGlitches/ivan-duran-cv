@@ -15,7 +15,48 @@ Profesional con 4 años de trayectoria técnica en infraestructura crítica y si
 Mi enfoque ha evolucionado hacia la **Arquitectura de Soluciones Cloud y SRE**, destacando hitos como la **reducción del 40% en tiempos de ejecución** de procesos regulatorios críticos. Actualmente cursando Ingeniería en la UNAB y especializándome en **AWS Cloud Architecture** con el objetivo de liderar el diseño estratégico de soluciones tecnológicas de alto impacto.
 
 ---
+``` mermaid
 
+graph LR
+    %% Configuración de Estética
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px;
+    classDef entel fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#01579b;
+    classDef banco fill:#fff9c4,stroke:#fbc02d,stroke-width:2px,color:#614a00;
+    classDef target fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#1b5e20;
+
+    %% Flujo de Trayectoria
+    subgraph "Entel (Connectivity)"
+
+        E1[Software Engineer]
+        E2[IaC & Cloud Foundations]
+        E1 --> E2
+    end
+
+    subgraph "Banco de Chile (Criticality)"
+
+        B1[Desarrollador Experto]
+        B2[SRE & Data Optimization]
+        B1 --> B2
+    end
+
+    subgraph "Next (Architecture)"
+
+        T1[Solutions Architect Specialist]
+        T2[AI & Multi-Cloud Strategy]
+        T1 --> T2
+    end
+
+    %% Conexiones principales
+    E2 --> B1
+    B2 --> T1
+
+    %% Aplicación de Estilos
+    class E1,E2 entel;
+    class B1,B2 banco;
+    class T1,T2 target;
+
+```
+---
 ###  Experiencia Profesional
 
 #### **Banco de Chile | Desarrollador Experto**

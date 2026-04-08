@@ -102,7 +102,7 @@ body {
     text-decoration: none;
     font-size: 0.85rem;
     font-weight: 500;
-    transition: all 0.2s;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     border: 1px solid var(--border);
     cursor: pointer;
     display: inline-flex;
@@ -113,6 +113,8 @@ body {
 .social-links a:hover, .btn-print:hover {
     background: var(--accent);
     color: var(--bg-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--accent-glow);
 }
 
 .btn-print {
@@ -219,12 +221,30 @@ body {
     background: rgba(255,255,255,0.03);
     border-radius: 12px;
     border: 1px solid var(--border);
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: block;
+}
+
+.project-card:hover {
+    background: rgba(255,255,255,0.06);
+    border-color: var(--accent);
+    transform: translateY(-4px) scale(1.01);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.4);
 }
 
 .project-card h4 {
     color: var(--accent);
     margin-bottom: 10px;
     font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.project-card h4 i {
+    font-size: 0.8rem;
+    opacity: 0.6;
 }
 
 .project-card p {

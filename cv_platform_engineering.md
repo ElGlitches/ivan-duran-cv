@@ -1,5 +1,5 @@
 # Iv&aacute;n Dur&aacute;n Luengo
-DevOps Engineer | Platform Engineering | SRE
+DevOps Engineer | SRE
 
 Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.com](mailto:ivanduranluengo@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/ivan-duran) | [GitHub (ElGlitches)](https://github.com/ElGlitches)
@@ -7,53 +7,54 @@ Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.c
 ---
 
 ## Perfil Profesional
-Ingeniero en Computaci&oacute;n e Inform&aacute;tica (en curso) con m&aacute;s de 4 a&ntilde;os de experiencia en el dise&ntilde;o y gesti&oacute;n de infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en la transici&oacute;n de Senior Software Engineer a Platform Engineering, con un fuerte enfoque en mejorar la Developer Experience (DX) y la confiabilidad del sistema (SRE).
+Desarrollador Backend con m&aacute;s de 4 a&ntilde;os de experiencia en sistemas de alta disponibilidad para banca y telecomunicaciones, realizando la transici&oacute;n activa hacia DevOps y SRE. Mi trayectoria en entornos cr&iacute;ticos — operando bajo normativa CMF, con Control-M, Ansible y pipelines de datos en GCP — me dio una perspectiva real de lo que significa que un sistema no pueda fallar.
 
-<strong>Mentalidad SRE:</strong> "Si algo es manual y repetitivo, existe para ser automatizado". Busco roles como <strong>Individual Contributor</strong> enfocados en construir plataformas estables y eliminar la fricci&oacute;n operacional.
+Mentalidad SRE: "Si algo es manual y repetitivo, existe para ser automatizado." Actualmente profundizando en AWS Cloud Architecture con Adrian Cantrill. Busco roles como Individual Contributor donde pueda construir infraestructura s&oacute;lida y eliminar fricci&oacute;n operacional.
 
 ---
 
 ## Experiencia Profesional
 
-### Banco de Chile | Desarrollador Experto (DevOps & Data Engineering)
-*Julio 2023 – Agosto 2025*
+### Banco de Chile | Desarrollador Experto — DevOps & Data Engineering
+*Julio 2023 – Agosto 2025 | Santiago, Chile*
 
-*   <strong>Automatizaci&oacute;n:</strong> Orquestaci&oacute;n de mallas de procesos bancarios cr&iacute;ticos mediante <strong>Control-M y Bash</strong>, garantizando disponibilidad 24/7 sin intervenci&oacute;n manual.
-*   <strong>Arquitectura y Cumplimiento:</strong> Dise&ntilde;o de microservicios escalables asegurando la trazabilidad y el cumplimiento normativo (CMF) para procesos financieros.
-*   <strong>Data Platform & ETL:</strong> Dise&ntilde;o de pipelines en <strong>DataStage y BigQuery (GCP)</strong> que redujeron el tiempo de disponibilidad de datos en un 40%.
-*   <strong>Modernizaci&oacute;n:</strong> Gesti&oacute;n de integridad de datos en sistemas Legacy (COBOL), facilitando la transici&oacute;n técnica hacia la nube.
-*   <strong>Gobernanza Cloud:</strong> Definici&oacute;n de estrategias de observabilidad y monitoreo proactivo alineadas con est&aacute;ndares internacionales de seguridad.
+*   **Automatizaci&oacute;n:** Orquestaci&oacute;n de mallas de procesos bancarios cr&iacute;ticos con Control-M y Bash, garantizando disponibilidad 24/7 sin intervenci&oacute;n manual.
+*   **ETL & Datos:** Dise&ntilde;o de pipelines con DataStage y BigQuery (GCP) que redujeron el tiempo de disponibilidad de datos en un 40%, habilitando decisiones de negocio en tiempo real.
+*   **Cumplimiento & Seguridad:** Gesti&oacute;n de integridad de datos bajo normativa CMF y modernizaci&oacute;n de sistemas Legacy (COBOL) hacia arquitecturas cloud.
+*   **Observabilidad:** Implementaci&oacute;n de estrategias de monitoreo proactivo y alertas alineadas con est&aacute;ndares de seguridad bancaria.
+*   **CI/CD:** Migraci&oacute;n del control de versiones de scripts cr&iacute;ticos a GitHub Actions, reemplazando procesos manuales por flujos auditables.
 
-### Entel | Software Engineer (Infrastructure & Automation)
-*Agosto 2021 – Marzo 2023*
+### Entel | Software Engineer — Infrastructure & Automation
+*Agosto 2021 – Marzo 2023 | Santiago, Chile*
 
-*   <strong>IaC y Automatizaci&oacute;n:</strong> Definici&oacute;n de estrategia de automatización mediante Ansible y Bash, estandarizando el despliegue de infraestructura productiva.
-*   <strong>Contenedores & AWS:</strong> Gesti&oacute;n de ecosistemas en <strong>AWS (ECS, Lambda, RDS, DynamoDB)</strong> con Docker, priorizando la alta disponibilidad.
-*   <strong>Dise&ntilde;o de Servicios:</strong> Liderazdo en desarrollo de APIs bajo principios de Clean Architecture y patrones de Event-Driven Architecture (EDA).
-*   <strong>DevSecOps & Observabilidad:</strong> Dise&ntilde;o de marcos de monitoreo avanzado en New Relic e integraci&oacute;n de seguridad en pipelines CI/CD.
-*   <strong>IA & Automatizaci&oacute;n:</strong> Automatizaci&oacute;n de procesos operativos mediante la integraci&oacute;n de IA (IBM Watson) en flujos de atenci&oacute;n escalables.
+*   **IaC:** Estandarizaci&oacute;n del despliegue de servidores productivos con Ansible y Bash, reduciendo errores humanos en servicios cr&iacute;ticos de telecomunicaciones.
+*   **Contenedores & AWS:** Gesti&oacute;n de ecosistemas con AWS ECS y EC2 con Docker, asegurando despliegues consistentes y el&aacute;sticos para plataformas de alta demanda.
+*   **Observabilidad:** Implementaci&oacute;n proactiva con New Relic: dashboards, alertas y detecci&oacute;n de incidentes en segundos antes de impactar al cliente.
+*   **Backend:** Desarrollo de APIs en Python con Clean Architecture para plataformas de atenci&oacute;n que soportaron crecimiento constante sin degradaci&oacute;n de rendimiento.
 
 ---
 
-## Proyectos Destacados (Foco en Infra)
+## Proyectos Personales
 
-*   [Agente Judicial (RAG Legal)](https://github.com/ElGlitches/agente-judicial): Sistema dockerizado con ChromaDB para b&uacute;squeda vectorial. Implementaci&oacute;n de vol&uacute;menes persistentes y redes aisladas.
-*   [Cloud-AI-Job-Engine](https://github.com/ElGlitches/Cloud-AI-Job-Engine): Motor de automatizaci&oacute;n en Python integrado con servicios cloud para procesamiento as&iacute;ncrono de datos.
+*   [Agente Judicial (RAG Legal)](https://github.com/ElGlitches/agente-judicial): Sistema dockerizado con ChromaDB para b&uacute;squeda vectorial semántica. Redes aisladas, volúmenes persistentes y despliegue self-hosted.
+*   [Cloud-AI-Job-Engine](https://github.com/ElGlitches/Cloud-AI-Job-Engine): Motor de automatizaci&oacute;n as&iacute;ncrona en Python con scraping inteligente e integraci&oacute;n a servicios cloud.
 
 ---
 
 ## Habilidades T&eacute;cnicas
 
-*   <strong>Cloud & Architecture:</strong> AWS (ECS, Lambda, RDS, SNS/SES), GCP (BigQuery, Cloud Run), Terraform.
-*   <strong>Infrastructure & DevOps:</strong> Ansible, Docker, Kubernetes, GitHub Actions, Control-M, DataStage.
-*   <strong>Bases de Datos & Networking:</strong> PostgreSQL, Oracle, BigQuery, SQL Server, VPC, DNS, Load Balancers.
-*   <strong>Patterns & Languages:</strong> Microservicios, EDA, Clean Architecture, Python (Experto), SQL Avanzado, Bash.
+*   **DevOps & Automatizaci&oacute;n:** Ansible, Bash, GitHub Actions, Control-M, Docker, DataStage.
+*   **Cloud (Uso Operativo):** AWS (ECS, Lambda, EC2, RDS, S3), GCP (BigQuery, Cloud Run).
+*   **SRE & Observabilidad:** New Relic, CloudWatch, estrategias de disponibilidad y resiliencia.
+*   **Bases de Datos:** PostgreSQL, BigQuery, Oracle, SQL Server.
+*   **Lenguajes:** Python (avanzado), SQL avanzado, Bash/Unix Scripting.
+*   **En aprendizaje activo:** Terraform (IaC), Kubernetes, AWS Solutions Architect (con Adrian Cantrill).
 
 ---
 
 ## Educaci&oacute;n y Certificaciones
+
 *   Ingenier&iacute;a en Computaci&oacute;n e Inform&aacute;tica | UNAB (En curso).
 *   Analista Programador Computacional | Duoc UC (Titulado).
-*   <strong>AWS Architecture Specialist:</strong> Especializaci&oacute;n avanzada con <strong>Adrian Cantrill</strong>.
-*   <strong>AWS Certified Solutions Architect Associate:</strong> En proceso final.
-*   <strong>Google Cloud Foundations:</strong> Especializaci&oacute;n DevOps.
+*   AWS Solutions Architect — Associate | En proceso final (Formaci&oacute;n con Adrian Cantrill).
+*   Google Cloud Foundations | Completado.

@@ -2,14 +2,14 @@
 DevOps Engineer | Platform Engineering | SRE
 
 Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.com](mailto:ivanduranluengo@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/ivanduranluengo/) | [GitHub (ElGlitches)](https://github.com/ElGlitches)
+[LinkedIn](https://www.linkedin.com/in/ivan-duran) | [GitHub (ElGlitches)](https://github.com/ElGlitches)
 
 ---
 
 ## Perfil Profesional
-Ingeniero en Computaci&oacute;n e Inform&aacute;tica (en curso) con m&aacute;s de 4 a&ntilde;os de experiencia en el dise&ntilde;o y gesti&oacute;n de infraestructura cr&iacute;tica. Realizando la transici&oacute;n de Senior Software Engineer a Platform Engineering, con un enfoque en mejorar la Developer Experience (DX) y la confiabilidad del sistema (SRE) mediante la automatizaci&oacute;n y el dise&ntilde;o de arquitecturas cloud resilientes.
+Ingeniero en Computaci&oacute;n e Inform&aacute;tica (en curso) con m&aacute;s de 4 a&ntilde;os de experiencia en el dise&ntilde;o y gesti&oacute;n de infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en la transici&oacute;n de Senior Software Engineer a Platform Engineering, con un fuerte enfoque en mejorar la Developer Experience (DX) y la confiabilidad del sistema (SRE).
 
-Experto en optimizar la continuidad operativa y la seguridad mediante la orquestaci&oacute;n de servicios en AWS/GCP, logrando mejoras del 40% en eficiencia de procesos.
+<strong>Mentalidad SRE:</strong> "Si algo es manual y repetitivo, existe para ser automatizado". Busco roles como <strong>Individual Contributor</strong> enfocados en construir plataformas estables y eliminar la fricci&oacute;n operacional.
 
 ---
 
@@ -18,20 +18,20 @@ Experto en optimizar la continuidad operativa y la seguridad mediante la orquest
 ### Banco de Chile | Desarrollador Experto (DevOps & Data Engineering)
 *Julio 2023 – Agosto 2025*
 
-*   Arquitectura y Cumplimiento: Lider&eacute; el dise&ntilde;o de microservicios escalables asegurando la trazabilidad y el cumplimiento normativo (CMF) para procesos financieros cr&iacute;ticos de alta disponibilidad.
-*   Modernizaci&oacute;n de Plataforma: Gestion&eacute; la integridad de datos en sistemas Legacy (COBOL), facilitando la transici&oacute;n técnica hacia arquitecturas modernas en la nube sin interrupci&oacute;n del servicio.
-*   Data Platform & SRE: Implementaci&oacute;n de arquitectura de datos en BigQuery (GCP) y orquestaci&oacute;n con Control-M, optimizando pipelines ETL con una reducci&oacute;n del 40% en tiempos de respuesta.
-*   Gobernanza Cloud: Defin&iacute; estrategias de observabilidad y monitoreo proactivo, alineando la infraestructura con los est&aacute;ndares internacionales de seguridad bancaria.
-*   Liderazgo de Incidentes: Orquest&eacute; la resoluci&oacute;n de incidentes de alta prioridad, actuando como puente técnico entre Negocio y TI para garantizar la resiliencia sistémica.
+*   <strong>Automatizaci&oacute;n:</strong> Orquestaci&oacute;n de mallas de procesos bancarios cr&iacute;ticos mediante <strong>Control-M y Bash</strong>, garantizando disponibilidad 24/7 sin intervenci&oacute;n manual.
+*   <strong>Arquitectura y Cumplimiento:</strong> Dise&ntilde;o de microservicios escalables asegurando la trazabilidad y el cumplimiento normativo (CMF) para procesos financieros.
+*   <strong>Data Platform & ETL:</strong> Dise&ntilde;o de pipelines en <strong>DataStage y BigQuery (GCP)</strong> que redujeron el tiempo de disponibilidad de datos en un 40%.
+*   <strong>Modernizaci&oacute;n:</strong> Gesti&oacute;n de integridad de datos en sistemas Legacy (COBOL), facilitando la transici&oacute;n técnica hacia la nube.
+*   <strong>Gobernanza Cloud:</strong> Definici&oacute;n de estrategias de observabilidad y monitoreo proactivo alineadas con est&aacute;ndares internacionales de seguridad.
 
 ### Entel | Software Engineer (Infrastructure & Automation)
 *Agosto 2021 – Marzo 2023*
 
-*   IaC y Automatizaci&oacute;n: Defin&iacute; y ejecut&eacute; la estrategia de automatizaci&oacute;n mediante Ansible y Bash, estandarizando el despliegue de infraestructura productiva y eliminando riesgos operativos manuales.
-*   Arquitectura AWS: Dise&ntilde;o y gesti&oacute;n de ecosistemas en AWS (ECS, Lambda, RDS, DynamoDB, S3), priorizando la alta disponibilidad y escalabilidad el&aacute;stica para servicios masivos de telecomunicaciones.
-*   Dise&ntilde;o de Servicios: Lider&eacute; el desarrollo de APIs bajo principios de Clean Architecture y patrones de Event-Driven Architecture (EDA), asegurando la resiliencia del backend ante picos de demanda.
-*   DevSecOps & Observabilidad: Dise&ntilde;&eacute; marcos de monitoreo avanzado en New Relic e integr&eacute; enfoques de seguridad en pipelines CI/CD (GitHub Actions).
-*   Soluciones de IA: Automatizaci&oacute;n de procesos operativos mediante la integraci&oacute;n de IA (IBM Watson) en flujos de atenci&oacute;n escalables.
+*   <strong>IaC y Automatizaci&oacute;n:</strong> Definici&oacute;n de estrategia de automatización mediante Ansible y Bash, estandarizando el despliegue de infraestructura productiva.
+*   <strong>Contenedores & AWS:</strong> Gesti&oacute;n de ecosistemas en <strong>AWS (ECS, Lambda, RDS, DynamoDB)</strong> con Docker, priorizando la alta disponibilidad.
+*   <strong>Dise&ntilde;o de Servicios:</strong> Liderazdo en desarrollo de APIs bajo principios de Clean Architecture y patrones de Event-Driven Architecture (EDA).
+*   <strong>DevSecOps & Observabilidad:</strong> Dise&ntilde;o de marcos de monitoreo avanzado en New Relic e integraci&oacute;n de seguridad en pipelines CI/CD.
+*   <strong>IA & Automatizaci&oacute;n:</strong> Automatizaci&oacute;n de procesos operativos mediante la integraci&oacute;n de IA (IBM Watson) en flujos de atenci&oacute;n escalables.
 
 ---
 
@@ -44,17 +44,16 @@ Experto en optimizar la continuidad operativa y la seguridad mediante la orquest
 
 ## Habilidades T&eacute;cnicas
 
-*   Cloud & Architecture: AWS (ECS, Lambda, RDS, SNS/SES), GCP (BigQuery, Cloud Run), Terraform.
-*   Infrastructure & DevOps: Ansible, Docker, Kubernetes, GitHub Actions, Control-M.
-*   SRE & Observabilidad: New Relic, CloudWatch, Estrategias de disponibilidad y resiliencia.
-*   Patterns: Microservicios, Event-Driven Architecture (EDA), DDD, Clean Architecture.
-*   Networking: Fundamentos de VPC, Security Groups, DNS y Load Balancers.
-*   Languages: Python (Experto), SQL Avanzado, Bash.
+*   <strong>Cloud & Architecture:</strong> AWS (ECS, Lambda, RDS, SNS/SES), GCP (BigQuery, Cloud Run), Terraform.
+*   <strong>Infrastructure & DevOps:</strong> Ansible, Docker, Kubernetes, GitHub Actions, Control-M, DataStage.
+*   <strong>Bases de Datos & Networking:</strong> PostgreSQL, Oracle, BigQuery, SQL Server, VPC, DNS, Load Balancers.
+*   <strong>Patterns & Languages:</strong> Microservicios, EDA, Clean Architecture, Python (Experto), SQL Avanzado, Bash.
 
 ---
 
 ## Educaci&oacute;n y Certificaciones
 *   Ingenier&iacute;a en Computaci&oacute;n e Inform&aacute;tica | UNAB (En curso).
 *   Analista Programador Computacional | Duoc UC (Titulado).
-*   Especializaci&oacute;n Cloud: AWS Certified Solutions Architect (En proceso final), Google Cloud Foundations.
-*   IA Generativa: Arquitectura RAG, n8n y automatizaci&oacute;n de flujos.
+*   <strong>AWS Architecture Specialist:</strong> Especializaci&oacute;n avanzada con <strong>Adrian Cantrill</strong>.
+*   <strong>AWS Certified Solutions Architect Associate:</strong> En proceso final.
+*   <strong>Google Cloud Foundations:</strong> Especializaci&oacute;n DevOps.

@@ -183,7 +183,14 @@ body {
     color: var(--accent);
     font-weight: 500;
     font-size: 0.95rem;
-    margin-bottom: 15px;
+    margin-bottom: 4px;
+}
+
+.role-context {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+    font-style: italic;
 }
 
 .exp-details {

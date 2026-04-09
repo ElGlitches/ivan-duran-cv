@@ -34,7 +34,7 @@ Desarrollador Backend con m&aacute;s de 4 a&ntilde;os de experiencia en sistemas
 - **Observabilidad:** Implementaci&oacute;n proactiva con New Relic: dashboards, alertas y detecci&oacute;n de incidentes antes de impactar al cliente.
 - **Backend:** Desarrollo de APIs en Python con Clean Architecture para plataformas de atenci&oacute;n que soportaron crecimiento constante sin degradaci&oacute;n de rendimiento.
 
-### Desarrollo Profesional Independiente
+### Transici&oacute;n T&eacute;cnica — DevOps & Cloud Engineering
 *Agosto 2025 – Presente*
 
 - Formaci&oacute;n intensiva en AWS Cloud Architecture con **Adrian Cantrill** (Solutions Architect Associate, en proceso final).

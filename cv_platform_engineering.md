@@ -8,7 +8,7 @@ Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.c
 
 ## Perfil Profesional
 
-Ingeniero con 4 a&ntilde;os de experiencia en infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en automatizaci&oacute;n con **Python, Bash y Linux**, pipelines CI/CD, orquestaci&oacute;n de procesos y observabilidad en entornos de alta disponibilidad regulados por CMF. Mentalidad SRE: si algo es manual y repetitivo, existe para ser automatizado.
+Ingeniero con 4 a&ntilde;os de experiencia en infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en automatizaci&oacute;n con **Python, Bash/Shell Scripting y Linux**, pipelines CI/CD, orquestaci&oacute;n de procesos y observabilidad en entornos de alta disponibilidad regulados por CMF. Mentalidad SRE: si algo es manual y repetitivo, existe para ser automatizado.
 
 Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de redacci&oacute;n legal con IA en uso activo por abogados y un motor de an&aacute;lisis de empleo con Gemini y Playwright. Actualmente en preparaci&oacute;n final para **AWS Solutions Architect Associate** (Adrian Cantrill) y profundizando en Terraform e IaC. Busco rol como Individual Contributor en DevOps o SRE, enfocado en construir infraestructura estable y eliminar fricci&oacute;n operacional.
 
@@ -54,10 +54,10 @@ Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de
 
 ## Habilidades T&eacute;cnicas
 
-- **DevOps & Automatizaci&oacute;n:** Ansible, Bash, GitHub Actions, Control-M, Docker, DataStage.
+- **DevOps & Automatizaci&oacute;n:** Ansible, Bash/Shell Scripting, Git, Linux, GitHub Actions, Control-M, Docker, DataStage.
 - **Cloud:** AWS (ECS, Lambda, EC2, S3, CloudWatch) &middot; GCP (BigQuery, Cloud Run).
 - **SRE & Observabilidad:** New Relic, CloudWatch, estrategias de disponibilidad y resiliencia.
-- **Lenguajes:** Python (avanzado), SQL avanzado, Bash/Unix Scripting.
+- **Lenguajes:** Python (avanzado), SQL avanzado, Bash/Shell Scripting.
 - **Bases de datos:** PostgreSQL, BigQuery, Oracle, SQL Server, SQLite.
 - **AI & Automatizaci&oacute;n:** RAG, ChromaDB, Gemini API, n8n, Playwright.
 - **En desarrollo:** Terraform &middot; Kubernetes &middot; AWS Solutions Architect (cert. en curso).

@@ -22,8 +22,9 @@ Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de
 
 - **Automatizaci&oacute;n:** Dise&ntilde;o y orquestaci&oacute;n de mallas de procesos bancarios cr&iacute;ticos con Control-M y Bash/Shell Scripting sobre entornos Linux, garantizando SLA 24/7 sin intervenci&oacute;n manual en operaciones reguladas por CMF.
 - **ETL & Datos:** Dise&ntilde;o de pipelines con DataStage y BigQuery (GCP) que redujeron la latencia de datos cr&iacute;ticos en producci&oacute;n en un **40%**, habilitando reportes de negocio en tiempo real para +1MM clientes.
-- **CI/CD:** Migraci&oacute;n de scripts cr&iacute;ticos a GitHub Actions, transformando despliegues manuales en flujos auditables y versionados — alineados a est&aacute;ndares CMF y reduciendo riesgo de error humano en entornos productivos regulados.
+- **CI/CD:** Migraci&oacute;n de scripts cr&iacute;ticos a GitHub Actions, transformando despliegues manuales en flujos auditables y versionados, alineados a est&aacute;ndares CMF y reduciendo riesgo de error humano en entornos productivos regulados.
 - **Cumplimiento & Seguridad:** Modernizaci&oacute;n de sistemas legacy (COBOL) hacia arquitecturas cloud manteniendo integridad de datos bajo normativa CMF y cero interrupci&oacute;n de servicio durante todo el proceso de migraci&oacute;n.
+- **Ingenier&iacute;a de Procesos:** Trabajaba de puente entre &aacute;reas de negocio y TI: reco&iacute;a los problemas operacionales de cada equipo, identificaba qu&eacute; era manual e innecesario y lo convert&iacute;a en automatizaci&oacute;n. Si algo le quitaba horas a un equipo cada semana, terminaba siendo un script o un pipeline funcionando solo.
 
 ### Entel &mdash; Software Engineer, Infrastructure & Automation
 *Agosto 2021 &ndash; Marzo 2023 | Santiago, Chile*

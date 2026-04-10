@@ -20,10 +20,10 @@ Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de
 *Julio 2023 &ndash; Agosto 2025 | Santiago, Chile*
 *(Top-3 banco chileno por activos, regulaci&oacute;n CMF estricta, +1MM clientes)*
 
-- **Automatizaci&oacute;n:** Orquestaci&oacute;n de mallas de procesos bancarios cr&iacute;ticos con Control-M y Bash, garantizando disponibilidad 24/7 sin intervenci&oacute;n manual.
-- **ETL & Datos:** Dise&ntilde;o de pipelines con DataStage y BigQuery (GCP) que redujeron el tiempo de disponibilidad de datos en un **40%**, habilitando decisiones de negocio en tiempo real.
-- **CI/CD:** Migraci&oacute;n de scripts cr&iacute;ticos a GitHub Actions, reemplazando procesos manuales por flujos auditables y versionados alineados a est&aacute;ndares de auditor&iacute;a bancaria.
-- **Cumplimiento & Seguridad:** Integridad de datos bajo normativa CMF y modernizaci&oacute;n de sistemas legacy hacia arquitecturas cloud sin interrupci&oacute;n de servicio.
+- **Automatizaci&oacute;n:** Dise&ntilde;o y orquestaci&oacute;n de mallas de procesos bancarios cr&iacute;ticos con Control-M y Bash/Shell Scripting sobre entornos Linux, garantizando SLA 24/7 sin intervenci&oacute;n manual en operaciones reguladas por CMF.
+- **ETL & Datos:** Dise&ntilde;o de pipelines con DataStage y BigQuery (GCP) que redujeron la latencia de datos cr&iacute;ticos en producci&oacute;n en un **40%**, habilitando reportes de negocio en tiempo real para +1MM clientes.
+- **CI/CD:** Migraci&oacute;n de scripts cr&iacute;ticos a GitHub Actions, transformando despliegues manuales en flujos auditables y versionados — alineados a est&aacute;ndares CMF y reduciendo riesgo de error humano en entornos productivos regulados.
+- **Cumplimiento & Seguridad:** Modernizaci&oacute;n de sistemas legacy (COBOL) hacia arquitecturas cloud manteniendo integridad de datos bajo normativa CMF y cero interrupci&oacute;n de servicio durante todo el proceso de migraci&oacute;n.
 
 ### Entel &mdash; Software Engineer, Infrastructure & Automation
 *Agosto 2021 &ndash; Marzo 2023 | Santiago, Chile*

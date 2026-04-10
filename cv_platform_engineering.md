@@ -1,5 +1,5 @@
 # Iv&aacute;n Dur&aacute;n Luengo
-DevOps Engineer | Platform Engineering | SRE
+DevOps Engineer | SRE
 
 Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.com](mailto:ivanduranluengo@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/ivan-duran) | [GitHub (ElGlitches)](https://github.com/ElGlitches)
@@ -8,9 +8,9 @@ Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.c
 
 ## Perfil Profesional
 
-Ingeniero con 4 a&ntilde;os de experiencia en infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en automatizaci&oacute;n con Python y Bash, pipelines CI/CD, orquestaci&oacute;n de procesos y observabilidad en entornos de alta disponibilidad regulados por CMF. Mentalidad SRE: si algo es manual y repetitivo, existe para ser automatizado.
+Ingeniero con 4 a&ntilde;os de experiencia en infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en automatizaci&oacute;n con **Python, Bash y Linux**, pipelines CI/CD, orquestaci&oacute;n de procesos y observabilidad en entornos de alta disponibilidad regulados por CMF. Mentalidad SRE: si algo es manual y repetitivo, existe para ser automatizado.
 
-Actualmente en preparaci&oacute;n final para certificaci&oacute;n AWS Solutions Architect Associate y profundizando en Terraform e IaC. Busco rol como Individual Contributor en DevOps o Platform Engineering, enfocado en construir plataformas estables y eliminar fricci&oacute;n operacional.
+Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de redacci&oacute;n legal con IA en uso activo por abogados y un motor de an&aacute;lisis de empleo con Gemini y Playwright. Actualmente en preparaci&oacute;n final para **AWS Solutions Architect Associate** (Adrian Cantrill) y profundizando en Terraform e IaC. Busco rol como Individual Contributor en DevOps o SRE, enfocado en construir infraestructura estable y eliminar fricci&oacute;n operacional.
 
 ---
 

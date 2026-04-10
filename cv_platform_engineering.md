@@ -10,7 +10,7 @@ Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.c
 
 Ingeniero con 4 a&ntilde;os de experiencia en infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en automatizaci&oacute;n con Python y Bash, pipelines CI/CD, orquestaci&oacute;n de procesos y observabilidad en entornos de alta disponibilidad regulados por CMF. Mentalidad SRE: si algo es manual y repetitivo, existe para ser automatizado.
 
-Actualmente en preparaci&oacute;n final para certificaci&oacute;n AWS Solutions Architect Associate y profundizando en Terraform e IaC. Busco rol como Individual Contributor en DevOps o Platform Engineering, enfocado en construir plataformas estables y eliminar fricci&oacute;n operacional.
+Actualmente en preparaci&oacute;n final para certificaci&oacute;n AWS Solutions Architect Associe y profundizando en Terraform e IaC. Busco rol como Individual Contributor en DevOps o Platform Engineering, enfocado en construir plataformas estables y eliminar fricci&atoacute;n operacional.
 
 ---
 

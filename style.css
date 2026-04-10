@@ -325,19 +325,20 @@ body {
     .no-print {
         display: none !important;
     }
+
     @page {
         size: A4;
-        margin: 1.2cm 1.5cm;
+        margin: 0.8cm 1cm;
     }
+
     body {
         background: white !important;
         color: black !important;
         padding: 0;
-        font-size: 10.5pt;
-        line-height: 1.35;
+        font-size: 9.5pt;
+        line-height: 1.3;
     }
-    
-    /* Global contrast fix */
+
     * {
         color: black !important;
         text-shadow: none !important;
@@ -348,27 +349,35 @@ body {
         max-width: 100%;
     }
 
+    /* ── HERO: very compact ── */
     .hero {
         background: white !important;
         border: none;
-        padding: 0;
-        margin-bottom: 20px;
-    }
-    
-    .hero h1 { 
-        font-size: 2.4rem;
-        margin-bottom: 5px;
+        padding: 0 0 10px 0;
+        margin-bottom: 10px;
+        border-bottom: 2px solid #333;
     }
 
-    .tagline { 
-        color: #333 !important; 
-        font-size: 1.2rem;
-        margin-bottom: 12px;
+    .hero h1 {
+        font-size: 1.8rem;
+        margin-bottom: 2px;
+    }
+
+    .tagline {
+        color: #333 !important;
+        font-size: 1rem;
+        margin-bottom: 4px;
     }
 
     .hero::after { display: none; }
-    
-    /* Force 1 Column Layout */
+    .social-links { display: none !important; }
+
+    .contact-methods {
+        gap: 12px;
+        font-size: 9pt;
+    }
+
+    /* ── LAYOUT: 1 column ── */
     .content-grid {
         display: block !important;
     }
@@ -378,72 +387,147 @@ body {
         display: block !important;
     }
 
-    .section-title { 
-        border-bottom: 2px solid #333 !important; 
-        padding-bottom: 4px; 
-        margin: 25px 0 15px 0;
-        font-size: 1.2rem;
-    }
-    
+    /* ── SECTIONS ── */
     .section {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         break-inside: avoid;
     }
 
-    .experience-item { 
-        border-bottom: 1px solid #ccc !important; 
-        padding-bottom: 15px;
-        margin-bottom: 15px;
-        transform: none !important; 
+    .section-title {
+        border-bottom: 1.5px solid #333 !important;
+        padding-bottom: 2px;
+        margin: 12px 0 6px 0;
+        font-size: 1rem;
     }
 
-    .role { 
-        font-weight: 700;
-        margin-bottom: 8px;
+    /* ── EXPERIENCE ── */
+    .experience-item {
+        border-bottom: none !important;
+        padding-bottom: 6px;
+        margin-bottom: 6px;
+        transform: none !important;
     }
-    
-    .exp-details li {
-        margin-bottom: 4px;
+
+    .exp-header h3 {
         font-size: 0.95rem;
+        margin-bottom: 1px;
     }
 
-    /* Professional highlights in black for print */
+    .date {
+        font-size: 8.5pt;
+    }
+
+    /* Hide company context line in print — saves 1 line per job */
+    .role-context {
+        display: none !important;
+    }
+
+    .role {
+        font-weight: 700;
+        margin-bottom: 3px;
+        font-size: 9pt;
+    }
+
+    .exp-details {
+        margin: 3px 0;
+    }
+
+    .exp-details li {
+        margin-bottom: 2px;
+        font-size: 9pt;
+        line-height: 1.25;
+    }
+
+    /* ── SKILLS: compact inline text instead of bubbles ── */
+    .skill-group {
+        margin-bottom: 4px;
+    }
+
+    .skill-group h5 {
+        display: inline;
+        font-weight: 700;
+        font-size: 9pt;
+    }
+
+    .tags {
+        display: inline;
+        flex-wrap: unset;
+        gap: unset;
+    }
+
+    .tags::before {
+        content: ": ";
+    }
+
+    .tags span {
+        display: inline !important;
+        border: none !important;
+        background: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        font-size: 9pt;
+    }
+
+    .tags span::after {
+        content: " · ";
+        color: #666 !important;
+    }
+
+    .tags span:last-child::after {
+        content: "";
+    }
+
+    /* ── PROJECTS ── */
+    .project-grid {
+        grid-template-columns: 1fr;
+        gap: 6px;
+    }
+
+    .project-card {
+        border: 1px solid #ccc !important;
+        padding: 6px 10px;
+        break-inside: avoid;
+    }
+
+    .project-card h4 {
+        font-size: 9.5pt;
+        margin-bottom: 2px;
+    }
+
+    .project-card p {
+        font-size: 8.5pt;
+        line-height: 1.25;
+        margin: 0;
+    }
+
+    /* ── EDUCATION ── */
+    .edu-item {
+        margin-bottom: 4px;
+    }
+
+    .edu-title {
+        font-size: 9pt;
+        font-weight: 700;
+    }
+
+    .edu-meta {
+        font-size: 8.5pt;
+    }
+
+    /* ── BOLD / HIGHLIGHT ── */
     strong, b, span.highlight {
         color: black !important;
         font-weight: 700 !important;
+        border: none !important;
     }
 
-    .project-grid {
-        grid-template-columns: 1fr;
-        gap: 12px;
-    }
-
-    .project-card { 
-        border: 1px solid #ddd !important;
-        padding: 12px;
-    }
-
-    .tags span { 
-        border: 1px solid black !important; 
-        background: white !important;
-        padding: 3px 10px;
-        font-size: 0.85rem;
-        margin-right: 5px;
-    }
-    
-    .social-links { display: none; }
-    
-    .contact-methods { 
-        gap: 15px;
-    }
-
-    .print-footer { 
-        display: block; 
+    .print-footer {
+        display: block;
         position: fixed;
         bottom: 0;
         width: 100%;
-        font-size: 0.7rem; 
-        text-align: center; 
-        color: #666 !important; 
+        font-size: 7pt;
+        text-align: center;
+        color: #999 !important;
     }
 }

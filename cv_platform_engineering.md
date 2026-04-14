@@ -10,11 +10,18 @@ Santiago, Chile | [+56 9 2738 8709](tel:+56927388709) | [ivanduranluengo@gmail.c
 
 Ingeniero con 4 a&ntilde;os de experiencia en infraestructura cr&iacute;tica para banca y telecomunicaciones. Especializado en automatizaci&oacute;n con **Python, Bash/Shell Scripting y Linux**, pipelines CI/CD, orquestaci&oacute;n de procesos y observabilidad en entornos de alta disponibilidad regulados por CMF. Mentalidad SRE: si algo es manual y repetitivo, existe para ser automatizado.
 
-Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de redacci&oacute;n legal con IA en uso activo por abogados y un motor de an&aacute;lisis de empleo con Gemini y Playwright. Actualmente en preparaci&oacute;n final para **AWS Solutions Architect Associate** (Adrian Cantrill) y profundizando en Terraform e IaC. Busco rol como Individual Contributor en DevOps o SRE, enfocado en construir infraestructura estable y eliminar fricci&oacute;n operacional.
+Adem&aacute;s de mi experiencia corporativa, act&uacute;o como puente entre negocio y TI: identifico qu&eacute; le duele operacionalmente a cada &aacute;rea y lo resuelvo en c&oacute;digo. Tengo proyectos propios en producci&oacute;n: un SaaS legal con IA en uso activo por abogados y un motor de an&aacute;lisis laboral con Gemini y Playwright. En preparaci&oacute;n activa para AWS Solutions Architect Associate (Adrian Cantrill) y profundizando en Terraform e IaC. Busco rol como Individual Contributor en DevOps o SRE.
 
 ---
 
 ## Experiencia Profesional
+
+### Transici&oacute;n T&eacute;cnica &mdash; DevOps & Cloud Engineering
+*Agosto 2025 &ndash; Presente*
+
+- Continuando estudios formales de Ingenier&iacute;a en Computaci&oacute;n e Inform&aacute;tica en UNAB, complementando la formaci&oacute;n acad&eacute;mica con pr&aacute;ctica real.
+- Preparaci&oacute;n activa para AWS Solutions Architect Associate con Adrian Cantrill, profundizando en arquitectura cloud y fundamentos de Terraform e IaC.
+- Desarrollo de dos proyectos propios en producci&oacute;n: un motor de an&aacute;lisis laboral con IA y una plataforma SaaS legal en uso activo por abogados.
 
 ### Banco de Chile &mdash; Desarrollador Experto, DevOps & Data Engineering
 *Julio 2023 &ndash; Agosto 2025 | Santiago, Chile*
@@ -22,43 +29,35 @@ Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de
 
 - **Automatizaci&oacute;n:** Dise&ntilde;o y orquestaci&oacute;n de mallas de procesos bancarios cr&iacute;ticos con Control-M y Bash/Shell Scripting sobre entornos Linux, garantizando SLA 24/7 sin intervenci&oacute;n manual en operaciones reguladas por CMF.
 - **ETL & Datos:** Dise&ntilde;o de pipelines con DataStage y BigQuery (GCP) que redujeron la latencia de datos cr&iacute;ticos en producci&oacute;n en un **40%**, habilitando reportes de negocio en tiempo real para +1MM clientes.
-- **CI/CD:** Migraci&oacute;n de scripts cr&iacute;ticos a GitHub Actions, transformando despliegues manuales en flujos auditables y versionados, alineados a est&aacute;ndares CMF y reduciendo riesgo de error humano en entornos productivos regulados.
-- **Cumplimiento & Seguridad:** Modernizaci&oacute;n de sistemas legacy (COBOL) hacia arquitecturas cloud manteniendo integridad de datos bajo normativa CMF y cero interrupci&oacute;n de servicio durante todo el proceso de migraci&oacute;n.
-- **Ingenier&iacute;a de Procesos:** Trabajaba de puente entre &aacute;reas de negocio y TI: reco&iacute;a los problemas operacionales de cada equipo, identificaba qu&eacute; era manual e innecesario y lo convert&iacute;a en automatizaci&oacute;n. Si algo le quitaba horas a un equipo cada semana, terminaba siendo un script o un pipeline funcionando solo.
+- **CI/CD:** Migraci&oacute;n de scripts cr&iacute;ticos a GitHub Actions, transformando despliegues manuales en flujos auditables y versionados, reduciendo el riesgo de error humano y acelerando la entrega en entornos de alta criticidad.
+- **Cumplimiento & Seguridad:** Modernizaci&oacute;n de sistemas legacy (COBOL) hacia arquitecturas cloud con cero downtime y continuidad de servicio garantizada durante todo el proceso de migraci&oacute;n.
+- **Ingenier&iacute;a de Procesos:** Actuaba como puente entre &aacute;reas de negocio y TI: recog&iacute;a los dolores operacionales de cada equipo, los analizaba y los convert&iacute;a en soluciones t&eacute;cnicas. Si algo le quitaba horas a un equipo cada semana, terminaba siendo un script o un pipeline funcionando solo.
 
 ### Entel &mdash; Software Engineer, Infrastructure & Automation
 *Agosto 2021 &ndash; Marzo 2023 | Santiago, Chile*
 *(Mayor operadora de telecomunicaciones de Chile, +10M clientes)*
 
-- **IaC:** Estandarizaci&oacute;n del despliegue de servidores productivos con Ansible y Bash, automatizando el **60% de las intervenciones manuales** en servicios cr&iacute;ticos.
-- **Contenedores & AWS:** Gesti&oacute;n de ecosistemas con AWS ECS y EC2 con Docker, asegurando despliegues consistentes y el&aacute;sticos para plataformas de alta demanda.
-- **Observabilidad:** Implementaci&oacute;n proactiva con New Relic: dashboards, alertas y detecci&oacute;n de incidentes antes de impactar al cliente.
-- **Backend:** Desarrollo de APIs en Python con Clean Architecture para plataformas que soportaron crecimiento constante sin degradaci&oacute;n de rendimiento.
-- **IA & Automatizaci&oacute;n:** Integraci&oacute;n de modelos IBM Watson en flujos de atenci&oacute;n al cliente, convirtiendo procesos manuales en servicios autom&aacute;ticos escalables.
-
-### Transici&oacute;n T&eacute;cnica &mdash; DevOps & Cloud Engineering
-*Agosto 2025 &ndash; Presente*
-
-- Formaci&oacute;n intensiva en AWS Cloud Architecture con Adrian Cantrill (Solutions Architect Associate, en proceso final).
-- Desarrollo de proyectos open source: motor de an&aacute;lisis laboral con IA y plataforma SaaS legal para abogados.
-- Foco en infraestructura cloud, automatizaci&oacute;n y eliminaci&oacute;n de trabajo manual operacional.
+- **IaC:** Implement&eacute; y mantuve despliegues de servidores productivos con Ansible y Bash, reduciendo las intervenciones manuales en un **60%** en servicios cr&iacute;ticos de telecomunicaciones.
+- **Contenedores & AWS:** Oper&eacute; servicios con AWS ECS, EC2 y Docker en entornos productivos, apoyando despliegues consistentes en plataformas de alta demanda.
+- **Observabilidad:** Configur&eacute; dashboards y alertas en New Relic para detectar incidentes antes de impactar al cliente.
+- **IA & Automatizaci&oacute;n:** Integr&eacute; IBM Watson en flujos de atenci&oacute;n al cliente, reduciendo la carga operacional del &aacute;rea y convirtiendo procesos repetitivos en respuestas autom&aacute;ticas.
 
 ---
 
 ## Proyectos Personales
 
-- **[Cloud-AI-Job-Engine](https://github.com/ElGlitches/Cloud-AI-Job-Engine):** Plataforma de inteligencia de mercado laboral. Scraping multi-fuente con Playwright, pipeline de an&aacute;lisis con Gemini 2.0 Flash, sincronizaci&oacute;n autom&aacute;tica a Google Sheets v&iacute;a API y ejecuci&oacute;n desatendida con Cron. Arquitectura modular: backend, AI core, data engineering e infraestructura. Docker-ready. Reduce el tiempo de revisi&oacute;n manual en un **90%**.
+- **[Cloud-AI-Job-Engine](https://github.com/ElGlitches/Cloud-AI-Job-Engine):** Herramienta propia en uso diario para an&aacute;lisis automatizado del mercado laboral. Scrapea LinkedIn y GetOnBrd con Playwright, pasa cada oferta por un pipeline con Gemini 2.0 Flash que extrae stack, seniority y salario, lo compara contra el CV y genera autom&aacute;ticamente una carta de presentaci&oacute;n personalizada. Resultados con sem&aacute;foro de prioridad en Google Sheets v&iacute;a API. Corre desatendido con Cron. Reduce de horas a minutos la identificaci&oacute;n de ofertas relevantes. Stack: Python, Playwright, Gemini 2.0 Flash, Pandas, Google Sheets API, Docker.
 
-- **[Agente Judicial (SaaS Legal AI)](https://github.com/ElGlitches/agente-judicial):** Plataforma SaaS self-hosted para redacci&oacute;n legal asistida por IA. Integraci&oacute;n con la Biblioteca del Congreso Nacional para validaci&oacute;n normativa en tiempo real, generaci&oacute;n de documentos Word con fidelidad de formato y sistema de gesti&oacute;n de usuarios con cr&eacute;ditos y paywall. Stack: Python, Gemini, ChromaDB, SQLite, Docker. En uso activo por abogados.
+- **[Agente Judicial (SaaS Legal AI)](https://github.com/ElGlitches/agente-judicial):** Sistema en uso activo por abogados para redacci&oacute;n legal asistida por IA. Usa los propios documentos Word del abogado como plantilla, preservando el formato exacto (tablas, otros&iacute;es, m&aacute;rgenes) y generando solo el contenido narrativo. Antes de redactar, consulta la Biblioteca del Congreso Nacional para verificar que las leyes citadas est&eacute;n vigentes. Incluye gesti&oacute;n de usuarios, sistema de cr&eacute;ditos y paywall. Stack: Python, Gemini, ChromaDB, SQLite, Docker.
 
 ---
 
 ## Habilidades T&eacute;cnicas
 
 - **DevOps & Automatizaci&oacute;n:** Ansible, Bash/Shell Scripting, Git, Linux, GitHub Actions, Control-M, Docker, DataStage.
-- **Cloud:** AWS (ECS, Lambda, EC2, S3, CloudWatch) &middot; GCP (BigQuery, Cloud Run).
-- **SRE & Observabilidad:** New Relic, CloudWatch, estrategias de disponibilidad y resiliencia.
-- **Lenguajes:** Python (avanzado), SQL avanzado, Bash/Shell Scripting.
+- **Cloud:** AWS (ECS, Lambda, EC2, S3) &middot; GCP (BigQuery, Cloud Run).
+- **SRE & Observabilidad:** New Relic, CloudWatch, monitoreo proactivo y gesti&oacute;n de incidentes en producci&oacute;n.
+- **Lenguajes:** Python (avanzado), SQL avanzado.
 - **Bases de datos:** PostgreSQL, BigQuery, Oracle, SQL Server, SQLite.
 - **AI & Automatizaci&oacute;n:** RAG, ChromaDB, Gemini API, n8n, Playwright.
 - **En desarrollo:** Terraform &middot; Kubernetes &middot; AWS Solutions Architect (cert. en curso).
@@ -70,5 +69,5 @@ Fuera del trabajo, desarrollo proyectos propios en producci&oacute;n: un SaaS de
 
 - Ingenier&iacute;a en Computaci&oacute;n e Inform&aacute;tica | UNAB (En curso).
 - Analista Programador Computacional | Duoc UC (Titulado).
-- AWS Certified Solutions Architect &ndash; Associate | En preparaci&oacute;n final &middot; Formaci&oacute;n con Adrian Cantrill.
+- AWS Certified Solutions Architect &ndash; Associate | En preparaci&oacute;n activa &middot; Formaci&oacute;n con Adrian Cantrill.
 - Google Cloud Foundations | Completado.

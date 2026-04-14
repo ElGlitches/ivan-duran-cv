@@ -377,13 +377,14 @@ body {
         font-size: 9pt;
     }
 
-    /* ── LAYOUT: 1 column ── */
+    /* ── LAYOUT: 2 columns ── */
     .content-grid {
-        display: block !important;
+        display: grid !important;
+        grid-template-columns: 1fr 220px !important;
+        gap: 20px !important;
     }
 
     .main-column, .sidebar {
-        width: 100% !important;
         display: block !important;
     }
 
